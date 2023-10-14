@@ -1,0 +1,9 @@
+1-Write a function called linear_search_product that takes the list of products and a target product name as input. The function should perform a linear search to find the target product in the list and return a list of indices of all occurrences of the product if found, or an empty list if the product is not found.
+
+
+Deposited $500. New balance: $1500
+Withdrew $200. New balance: $1300
+Insufficient funds. Cannot withdraw that amount.
+Invalid deposit amount. Please deposit a positive amount.
+Account Balance for John Doe: $1300
+
